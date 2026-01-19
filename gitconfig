@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kevin.delassat@gmail.com
+	name = Kévin Delassat
