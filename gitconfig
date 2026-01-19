@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = kevin.delassat@gmail.com
+	email = gh api kevin.delassat@gmail.com
 	name = Kévin Delassat
